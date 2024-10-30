@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/issusmile/Excel-Sales-Analytics/blob/main/Sales%20Analytics_Customer%20Performance%20report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
